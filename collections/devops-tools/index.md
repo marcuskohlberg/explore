@@ -1,5 +1,6 @@
 ---
 items:
+ - encoredev/encore
  - puppetlabs/puppet
  - chef/chef
  - ansible/ansible
